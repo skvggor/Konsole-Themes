@@ -10,6 +10,8 @@ Some themes for Konsole (KDE).
 
 > Previews into each folder.
 
+> I use [fish-shell](https://github.com/fish-shell/fish-shell) and [oh-my-fish](https://github.com/bpinto/oh-my-fish).
+
 ## License
 
 The MIT License (MIT)
