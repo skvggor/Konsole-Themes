@@ -5,7 +5,7 @@ Some themes for Konsole (KDE).
 ## Install
 
 1. Put the files `.coloscheme` into `~/.kde4/share/apps/konsole` and close all Konsole windows
-2. Right click on Konsole area and `Edit Current Profile...`, click on tab `Appearence` and select some theme.
+2. Open Konsole again and right click on Konsole area and `Edit Current Profile...`, click on tab `Appearence` and select some theme.
 3. Enjoy! :sparkles:
 
 > Previews into each folder.
